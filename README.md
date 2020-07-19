@@ -18,5 +18,5 @@ The application uses Bootstrap 4, javascript, and a few lines of custom css.
 4. The timer will stop running when the user has anwered all the questions, or if the timer reaches 0 (zero) seconds.
 5. The user will get bonus points if they answer all the questions before time runs out.
 
-### Published
+### Published:
 <https://arobl034.github.io/CodeQuiz.github.io/>
