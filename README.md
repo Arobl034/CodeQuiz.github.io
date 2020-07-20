@@ -2,7 +2,7 @@
 
 ### Purpose
 
-Challenge is to build a code quiz with multiple-choice questions while strengthen different skills.
+Challenge is to build a code quiz with multiple-choice questions while strengthening different skills such as event listeners, timers, storing in localStorage, and custom functions.
 
 ### Technologies used
 
