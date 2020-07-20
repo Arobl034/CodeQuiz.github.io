@@ -2,7 +2,7 @@
 
 ### Purpose
 
-It applies a few things learned in the UM Full Stack Developer Bootcamp 2019-2020, such as event listeners, timers, storing in localStorage, and custom functions.
+Challenge is to build a code quiz with multiple-choice questions while strengthen different skills.
 
 ### Technologies used
 
